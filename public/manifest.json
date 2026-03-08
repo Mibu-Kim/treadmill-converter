@@ -1,0 +1,15 @@
+{
+  "name": "속도/페이스 변환기",
+  "short_name": "페이스 변환기",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#030712"
+}
